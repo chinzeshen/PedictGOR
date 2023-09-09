@@ -1,0 +1,8 @@
+# Ignore the whole venv folder
+venv
+
+# Ignore all .xlsx files (including original dataset)
+*.xlsx
+
+# Ignore irrelevant folder
+.ipynb_checkpoint
